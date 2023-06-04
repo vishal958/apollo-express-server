@@ -5,7 +5,7 @@ const connectToDatabase = require('./db');
 
 const resolvers = require('./graphql/resolvers');
 const typeDefs = require('./graphql/typeDefs');
-// Example GraphQL schema and resolvers
+// Example GraphQL schema and resolversf
 
 const startServer = async () => {
   const app = express();
